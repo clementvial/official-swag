@@ -1,7 +1,8 @@
 # Awesome Swag [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of official swag for developers (ง ͡ʘ ͜ʖ ͡ʘ)ง
+A curated list of official developers swag (ง ͡ʘ ͜ʖ ͡ʘ)ง
 
+* [DigitalOcean Swag Store](https://store.digitalocean.com/doswag "DigitalOcean Swag Store")
 * [Gatsby Store](https://store.gatsbyjs.org/ "Gatsby Store")
 * [GitHub Shop | Awesome GitHub T-shirts and other cool swag](https://github.myshopify.com/ "GitHub Shop | Awesome GitHub T-shirts and other cool swag")
 * [Google Official Merchandise Store](https://shop.googlemerchandisestore.com/ "Google Official Merchandise Store")
