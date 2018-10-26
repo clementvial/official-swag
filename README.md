@@ -10,6 +10,7 @@ A curated list of developers official swag (ง ͡ʘ ͜ʖ ͡ʘ)ง
 * [GoDaddy Store](https://companystore.godaddy.net/ "GoDaddy Store")
 * [Google Official Merchandise Store](https://shop.googlemerchandisestore.com/ "Google Official Merchandise Store")
 * [IBM Online eStore](https://logostore-globalid.us/ "IBM Online eStore")
+* [JetBrains Apparel Store](https://www.ptxstore.com/jetbrains/ "JetBrains Apparel Store")
 * [Magento Swag Store | Cool gear to show your Magento spirit!](https://swag.magento.com/ "Magento Swag Store | Cool gear to show your Magento spirit!")
 * [Microsoft Merchandise Store](https://www.microsoftmerchandise.com/ "Microsoft Merchandise Store")
 * [Neo4j - Graph Gear Store](https://stores.kotisdesign.com/graphgear/ "Neo4j") 
