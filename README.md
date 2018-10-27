@@ -1,6 +1,8 @@
 # Awesome Swag [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-An awesome & curated list of developers official swag 😎💣🍟
+> An awesome & curated list of developers official swag 😎💣🍟
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Adobe — Branded Merchandise for Adobe](http://www.adobebrandedmerchandise.com/ "Adobe — Branded Merchandise for Adobe")
 * [Atlassian's Official Swag Store](https://atlassian-swag.mybrightsites.com/ "Atlassian's Official Swag Store")
@@ -26,4 +28,4 @@ An awesome & curated list of developers official swag 😎💣🍟
 
 ## Contributing
 
-Your contributions are always welcome! Only official merchs
+Know of an awesome official store that should be on this list? Let's add it!
