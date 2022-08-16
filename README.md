@@ -3,12 +3,11 @@
 > A curated list of developers official swag 😎
 
 * [Adobe — Branded Merchandise for Adobe](http://www.adobebrandedmerchandise.com/ "Adobe — Branded Merchandise for Adobe")
-* [Atlassian's Official Swag Store](https://atlassian-swag.mybrightsites.com/ "Atlassian's Official Swag Store")
-* [Auth0 Swag Store](https://shop.spreadshirt.com/Auth0/ "Auth0 Swag Store")
-* [DigitalOcean Swag Store](https://store.digitalocean.com/doswag "DigitalOcean Swag Store")
-* [Dribbble Equipment Shop](https://shop.dribbble.com/ "Dribbble Equipment Shop")
+* [Atlassian Team Supply Co. Store](https://shop.atlassian.com/ "Atlassian Team Supply Co. Store")
+* [Auth0 Swag Store](https://auth0.myspreadshop.com/ "Auth0 Swag Store")
+* [DigitalOcean Swag Store](https://store.digitalocean.com/ "DigitalOcean Swag Store")
 * [Gatsby Store](https://store.gatsbyjs.org/ "Gatsby Store")
-* [GitHub Shop | Awesome GitHub T-shirts and other cool swag](https://github.myshopify.com/ "GitHub Shop | Awesome GitHub T-shirts and other cool swag")
+* [GitHub Shop](https://thegithubshop.com/ "GitHub Shop")
 * [GitLab Swag Shop](https://shop.gitlab.com/ "GitLab Swag Shop")
 * [Google Official Merchandise Store](https://shop.googlemerchandisestore.com/ "Google Official Merchandise Store")
 * [Hadoop — The Hadoop Store](https://www.cafepress.com/hadoop "Hadoop — The Hadoop Store")
@@ -23,7 +22,6 @@
 * [Splunk](https://www.mypromomall.com/splunk "Splunk")
 * [Stickers! — Stickers from Wes Bos](https://bos.af/ "Stickers! — Stickers from Wes Bos")
 * [Tableau Store](https://www.bdasites.com/tableau/Main/Default "Tableau Store")
-* [Twilio Company Store](http://store.twilio.com/ "Twilio Company Store")
 * [VMware Merchandise](https://www.vmware.com/company/merchandise.html "VMware Merchandise")
 
 ## Contributing
