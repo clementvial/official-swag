@@ -7,7 +7,6 @@
 * [Auth0 Swag Store](https://auth0.myspreadshop.com/ "Auth0 Swag Store")
 * [Cisco Merchandise Store](https://www.cisco.com/c/en/us/about/company-store.html "Cisco Merchandise Store")
 * [CodeWeavers Swag Store](https://www.codeweavers.com/store/swag "CodeWeavers Swag Store")
-* [Deloitte Store](https://www.deloittemerchglobal.com/ "Deloitte Store")
 * [DigitalOcean Swag Store](https://store.digitalocean.com/ "DigitalOcean Swag Store")
 * [Docker Store](https://stores.kotisdesign.com/docker/ "Docker Store")
 * [The Figma Store](https://store.figma.com/ "https://store.figma.com/")
