@@ -19,7 +19,7 @@
 * [IBM Online eStore](https://logostore-globalid.us/ "IBM Online eStore")
 * [Intel Retail Store](https://www.theintelstore.com/ "Intel Retail Store")
 * [Microsoft Merchandise Store](https://www.microsoftmerchandise.com/ "Microsoft Merchandise Store")
-* [MongoDB Shop](https://stores.kotisdesign.com/mdbshop/products "MongoDB Shop")
+* [MongoDB Shop](https://stores.kotisdesign.com/mongodb "MongoDB Shop")
 * [Neo4j — Graph Gear Store](https://stores.kotisdesign.com/graphgear/ "Neo4j — Graph Gear Store")
 * [Netlify Store - Awesome Apparel, Stickers, and Other Swag](https://swag.netlify.com/ "Netlify Store - Awesome Apparel, Stickers, and Other Swag")
 * [Okta Store](https://okta.mybrightsites.com/ "Okta Store")
