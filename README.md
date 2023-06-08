@@ -5,6 +5,7 @@
 * [Adobe Branded Merchandise Store](http://www.adobebrandedmerchandise.com/ "Adobe Branded Merchandise Store")
 * [Atlassian Team Supply Co. Store](https://shop.atlassian.com/ "Atlassian Team Supply Co. Store")
 * [Auth0 Swag Store](https://auth0.myspreadshop.com/ "Auth0 Swag Store")
+* [The Brave Merch Store](https://store.brave.com/ "The Brave Merch Store")
 * [Cisco Merchandise Store](https://www.cisco.com/c/en/us/about/company-store.html "Cisco Merchandise Store")
 * [CodeWeavers Swag Store](https://www.codeweavers.com/store/swag "CodeWeavers Swag Store")
 * [DigitalOcean Swag Store](https://store.digitalocean.com/ "DigitalOcean Swag Store")
