@@ -32,6 +32,7 @@
 * [Tableau Store](https://www.bdasites.com/tableau/Main/Default "Tableau Store")
 * [VMware Merchandise](https://www.vmware.com/company/merchandise.html "VMware Merchandise")
 * [Webex Merch Store](https://webex-promo.cisco.com/country "Webex Merch Store")
+* [Rasa Merch Store](https://shop.rasa.com "Rasa Merch Store")
 ## Contributing
 
 Know of an awesome official store that should be on this list? Let's add it!
