@@ -1,6 +1,6 @@
 # Official Swag
 
-> A curated list of developers official swag 😎
+> A curated list of developers' official swag 😎
 
 * [Adobe Branded Merchandise Store](https://adobestore.com/ "Adobe Branded Merchandise Store")
 * [Ardan Labs Swag Store](https://store.ardanlabs.com/ "Ardan Labs Swag Store")
@@ -42,6 +42,15 @@
 * [VMware Merchandise](https://www.vmware.com/company/merchandise.html "VMware Merchandise")
 * [Webex Merch Store](https://webex-promo.cisco.com/country "Webex Merch Store")
 * [Rasa Merch Store](https://shop.rasa.com "Rasa Merch Store")
+
 ## Contributing
 
 Know of an awesome official store that should be on this list? Let's add it!
+
+1. Fork the repository
+2. Add your changes
+3. Submit a pull request
+
+## License
+
+This project is licensed under the CC0 1.0 Universal License - see the [LICENSE](LICENSE) file for details.
