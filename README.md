@@ -1,6 +1,6 @@
 # Official Swag
 
-> A curated list of developers' official swag 😎
+A handpicked collection of official merchandise for developers, featuring exclusive swag items like t-shirts, jeans, backpacks, and caps 😎👕👖🎒🧢. Stay stylish and represent your favorite tech brands!
 
 * [Adobe Branded Merchandise Store](https://adobestore.com/ "Adobe Branded Merchandise Store")
 * [Ardan Labs Swag Store](https://store.ardanlabs.com/ "Ardan Labs Swag Store")
@@ -11,11 +11,13 @@
 * [CD Foundation Swag Store](https://store.cd.foundation/ "CD Foundation Swag Store")
 * [Cisco Merchandise Store](https://www.cisco.com/c/en/us/about/company-store.html "Cisco Merchandise Store")
 * [Cloud Foundry Swage Store](https://store-cloudfoundry.org/ "Cloud Foundry Swage Store")
+* [CNCF Store](https://store.cncf.io/ "CNCF Store")
 * [CodeWeavers Swag Store](https://www.codeweavers.com/store/swag/ "CodeWeavers Swag Store")
 * [DigitalOcean Swag Store](https://store.digitalocean.com/ "DigitalOcean Swag Store")
-* [Docker Store](https://stores.kotisdesign.com/docker/ "Docker Store")
+* [Docker Store](https://docker.postal.store/ "Docker Store")
 * [Equinix Company Store](https://store.equinix.com/ "Equinix Company Store")
 * [Equinix Metal](https://shop.equinixmetal.com/ "Equinix Metal")
+* [Elastic Online Merchandise Store](https://store.ecompanystore.com/elastic/Shop/#/ "Elastic Online Merchandise Store")
 * [The Figma Store](https://store.figma.com/ "The Figma Store")
 * [Fintech Open Source (FINOS) Foundation Store](https://store-finos.myshopify.com/ "Fintech Open Source (FINOS) Foundation Store")
 * [Forem Shop](https://shop.forem.com/ "Forem Shop")
@@ -24,20 +26,24 @@
 * [GitLab Swag Shop](https://shop.gitlab.com/ "GitLab Swag Shop")
 * [Google Official Merchandise Store](https://shop.googlemerchandisestore.com/ "Google Official Merchandise Store")
 * [GraphQL Swag Store](https://store.graphql.org/ "GraphQL Swag Store")
+* [HashiCorp Merch Store](https://store.hashicorp.com/ "HashiCorp Merch Store")
 * [The Hadoop Store](https://www.cafepress.com/hadoop "The Hadoop Store")
 * [IBM Online eStore](https://logostore-globalid.us/ "IBM Online eStore")
 * [Intel Retail Store](https://www.theintelstore.com/ "Intel Retail Store")
+* [Jetbrains Merchandise Store](https://www.jetbrainsmerchandise.com/ "Jetbrains Merchandise Store")
 * [Linux Foundation Store](https://linuxfoundation.store/ "Linux Foundation Store")
 * [METAMASK](https://metamask.myspreadshop.com/ "METAMASK")
 * [Microsoft Merchandise Store](https://www.microsoftmerchandise.com/ "Microsoft Merchandise Store")
-* [MongoDB Shop](https://stores.kotisdesign.com/mongodb "MongoDB Shop")
-* [Neo4j — Graph Gear Store](https://stores.kotisdesign.com/graphgear/ "Neo4j — Graph Gear Store")
+* [Mozilla Store](https://mozilla-na.myspreadshop.com/ "Mozilla Store")
+* [Neo4j — Graph Gear Store](https://www.bystadium.com/us/en/stores/neo4j-45148/S565400238 "Neo4j — Graph Gear Store")
+* [NetApp Gear Store](https://www.netappgear.com/ "NetApp Gear Store")
 * [Netlify Store — Awesome Apparel, Stickers, and Other Swag](https://swag.netlify.com/ "Netlify Store — Awesome Apparel, Stickers, and Other Swag")
 * [Okta Store](https://okta.mybrightsites.com/ "Okta Store")
 * [Path Network, Inc - Merchandise](https://merch.path.net/ "Path Network, Inc - Merchandise")
 * [PostgreSQL Europe Merchandise Shop](https://postgresqleu.myspreadshop.net/ "PostgreSQL Europe Merchandise Shop")
 * [Postman Merchandise Store](https://store.postman.com/ "Postman Merchandise Store")
 * [Proton Shop - Official Supporter Merchandise](https://shop.proton.me/ "Proton Shop - Official Supporter Merchandise")
+* [Rasa Merch Store](https://shop.rasa.com "Rasa Merch Store")
 * [RISC-V Store](https://risc-v-store.myshopify.com/ "RISC-V Store")
 * [Salesforce Brandstore](https://www.salesforcestore.com/ "Salesforce Brandstore")
 * [Signal App Merch Store](https://shop.signal.org/ "Signal App Merch Store")
@@ -46,12 +52,12 @@
 * [Solana Merch Store](https://store.solana.com/ "Solana Merch Store")
 * [SolidJS Store](https://www.solidjs.com/store "SolidJS Store")
 * [Splunk](https://www.mypromomall.com/splunk "Splunk")
-* [Stickers! — Stickers from Wes Bos](https://bos.af/ "Stickers! — Stickers from Wes Bos")
 * [Supabase Store](https://store.supabase.com/ "Supabase Store")
 * [Tableau Store](https://www.bdasites.com/tableau/Main/Default "Tableau Store")
 * [VMware Merchandise](https://www.vmware.com/company/merchandise.html "VMware Merchandise")
 * [Webex Merch Store](https://webex-promo.cisco.com/country "Webex Merch Store")
-* [Rasa Merch Store](https://shop.rasa.com "Rasa Merch Store")
+* [WordPress Swag Store](https://mercantile.wordpress.org/ "WordPress Swag Store")
+
 
 ## Contributing
 
