@@ -32,6 +32,7 @@ A handpicked collection of official merchandise for developers, featuring exclus
 * [Intel Retail Store](https://www.theintelstore.com/ "Intel Retail Store")
 * [Jetbrains Merchandise Store](https://www.jetbrainsmerchandise.com/ "Jetbrains Merchandise Store")
 * [Linux Foundation Store](https://linuxfoundation.store/ "Linux Foundation Store")
+* [Litecoin Foundation Shop](https://shop.litecoin.net/ "Litecoin Foundation Shop") 
 * [METAMASK](https://metamask.myspreadshop.com/ "METAMASK")
 * [Microsoft Merchandise Store](https://www.microsoftmerchandise.com/ "Microsoft Merchandise Store")
 * [Mozilla Store](https://mozilla-na.myspreadshop.com/ "Mozilla Store")
