@@ -55,6 +55,7 @@ A handpicked collection of official merchandise for developers, featuring exclus
 * [SolidJS Store](https://www.solidjs.com/store "SolidJS Store")
 * [Splunk](https://www.mypromomall.com/splunk "Splunk")
 * [Supabase Store](https://store.supabase.com/ "Supabase Store")
+* [Syntax × Sentry Swag Store](https://sentry.shop/ "Syntax × Sentry Swag Store")
 * [Tableau Store](https://www.bdasites.com/tableau/Main/Default "Tableau Store")
 * [VMware Merchandise](https://www.vmware.com/company/merchandise.html "VMware Merchandise")
 * [Webex Merch Store](https://webex-promo.cisco.com/country "Webex Merch Store")
