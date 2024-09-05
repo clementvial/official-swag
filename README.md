@@ -1,6 +1,6 @@
-# Official Swag
+# Official Swag 🛍️
 
-A handpicked collection of official merchandise for developers, featuring exclusive swag items like t-shirts, jeans, backpacks, and caps 😎👕👖🎒🧢. Stay stylish and represent your favorite tech brands!
+Welcome to Official Swag—the ultimate directory of official merchandise shops for developers! Discover a curated list of links to exclusive swag stores featuring gear from your favorite tech companies. Whether you're after a stylish t-shirt, a comfy hoodie, or some sleek accessories, this repo connects you to all the best places to score authentic developer swag.
 
 * [Adobe Branded Merchandise Store](https://adobestore.com/ "Adobe Branded Merchandise Store")
 * [Ardan Labs Swag Store](https://store.ardanlabs.com/ "Ardan Labs Swag Store")
