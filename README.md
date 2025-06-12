@@ -14,6 +14,7 @@ Welcome to Official Swag—the ultimate directory of official merchandise shops 
 * [CNCF Store](https://store.cncf.io/ "CNCF Store")
 * [CodeWeavers Swag Store](https://www.codeweavers.com/store/swag/ "CodeWeavers Swag Store")
 * [DigitalOcean Swag Store](https://store.digitalocean.com/ "DigitalOcean Swag Store")
+* [Discord Merch Store](https://discordmerch.com/)
 * [Docker Store](https://docker.postal.store/ "Docker Store")
 * [Equinix Company Store](https://store.equinix.com/ "Equinix Company Store")
 * [Equinix Metal](https://shop.equinixmetal.com/ "Equinix Metal")
