@@ -35,6 +35,7 @@ Welcome to Official Swag—the ultimate directory of official merchandise shops 
 * [Litecoin Foundation Shop](https://shop.litecoin.net/ "Litecoin Foundation Shop") 
 * [METAMASK](https://metamask.myspreadshop.com/ "METAMASK")
 * [Microsoft Merchandise Store](https://www.microsoftmerchandise.com/ "Microsoft Merchandise Store")
+* [MindsDB Official Swag Store](https://store.covver.io/mindsdb/collections/swag-collection)
 * [Mozilla Store](https://mozilla-na.myspreadshop.com/ "Mozilla Store")
 * [Neo4j — Graph Gear Store](https://www.bystadium.com/us/en/stores/neo4j-45148/S565400238 "Neo4j — Graph Gear Store")
 * [NetApp Gear Store](https://www.netappgear.com/ "NetApp Gear Store")
