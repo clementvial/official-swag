@@ -26,6 +26,7 @@ Welcome to Official Swag—the ultimate directory of official merchandise shops 
 * [Gatsby Store](https://store.gatsbyjs.org/ "Gatsby Store")
 * [GitHub Shop](https://thegithubshop.com/ "GitHub Shop")
 * [GitLab Swag Shop](https://shop.gitlab.com/ "GitLab Swag Shop")
+* [Glesys Shop](https://shop.glesys.se/ "Glesys Shop")
 * [Google Official Merchandise Store](https://shop.googlemerchandisestore.com/ "Google Official Merchandise Store")
 * [GraphQL Swag Store](https://store.graphql.org/ "GraphQL Swag Store")
 * [HashiCorp Merch Store](https://store.hashicorp.com/ "HashiCorp Merch Store")
