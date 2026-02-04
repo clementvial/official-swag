@@ -49,6 +49,7 @@ Welcome to Official Swag—the ultimate directory of official merchandise shops 
 * [Postman Merchandise Store](https://store.postman.com/ "Postman Merchandise Store")
 * [Proton Shop - Official Supporter Merchandise](https://shop.proton.me/ "Proton Shop - Official Supporter Merchandise")
 * [Rasa Merch Store](https://shop.rasa.com "Rasa Merch Store")
+* [Red Hat Cool Stuff Store](https://coolstuff.redhat.com/ "Red Hat Cool Stuff Store")
 * [Refine Store | Show Your Support Proudly](https://store.refine.dev/ "Refine Store | Show Your Support Proudly")
 * [RISC-V Store](https://risc-v-store.myshopify.com/ "RISC-V Store")
 * [Salesforce Brandstore](https://www.salesforcestore.com/ "Salesforce Brandstore")
