@@ -34,6 +34,7 @@ Welcome to Official Swag—the ultimate directory of official merchandise shops 
 * [IBM Online eStore](https://logostore-globalid.us/ "IBM Online eStore")
 * [Intel Retail Store](https://www.theintelstore.com/ "Intel Retail Store")
 * [Jetbrains Merchandise Store](https://www.jetbrainsmerchandise.com/ "Jetbrains Merchandise Store")
+* [Kiro Shop](https://shop.kiro.dev/ "Kiro Shop")
 * [Linux Foundation Store](https://linuxfoundation.store/ "Linux Foundation Store")
 * [Litecoin Foundation Shop](https://shop.litecoin.net/ "Litecoin Foundation Shop")
 * [METAMASK](https://metamask.myspreadshop.com/ "METAMASK")
